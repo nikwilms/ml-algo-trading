@@ -1,0 +1,11 @@
+# local package
+-e .
+
+# external requirements
+Sphinx
+jupyterlab
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn

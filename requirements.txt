@@ -9,3 +9,4 @@ seaborn
 numpy
 pandas
 scikit-learn
+python-dotenv

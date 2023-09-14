@@ -14,4 +14,4 @@ backtrader
 pyfolio
 statsmodels
 datetime
-TA-Lib
+#TA-Lib
